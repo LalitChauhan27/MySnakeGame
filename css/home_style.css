@@ -1,0 +1,22 @@
+body, html{
+    margin: 0;
+    background-image: url("../img/homeBg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#playBtn{
+    position: absolute;
+    top: 450px;
+    right: 100px;
+}
+
+#logo{
+    filter: invert(100%);
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    cursor: pointer;
+}
