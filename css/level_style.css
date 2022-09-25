@@ -1,0 +1,33 @@
+body, html{
+    margin: 0;
+    background-image: url("../img/homeBg.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#level_adjuster{
+    position: absolute;
+    right: 12%;
+    top: 60%;
+}
+
+#music_button{
+    position: absolute;
+    top: 1%;
+    right: 1.25%;
+}
+
+@media only screen and (max-width: 768px){
+    #level_adjuster{
+        top: 65%;
+        right: 0;
+        width: 100%;
+    }
+    #music_button{
+        top: 5%;
+        right: 0;
+        width: 100%;
+    }
+}
