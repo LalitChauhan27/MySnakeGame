@@ -9,14 +9,27 @@ body, html{
 
 #playBtn{
     position: absolute;
-    top: 450px;
-    right: 100px;
+    top: 60%;
+    right: 12%;
 }
 
 #logo{
     filter: invert(100%);
     position: absolute;
-    right: 30px;
-    top: 10px;
+    top: 1%;
+    right: 1.25%;
     cursor: pointer;
+}
+
+@media only screen and (max-width: 768px){
+    #playBtn{
+        top: 65%;
+        right: 0;
+        width: 100%;
+    }
+    #logo{
+        top: 2%;
+        right: 0;
+        width: 100%;
+    }
 }

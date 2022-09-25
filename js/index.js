@@ -147,3 +147,33 @@ window.addEventListener('keydown', e =>{
     }
 
 });
+
+//Code for Mobile Phone
+let upbtn = document.getElementById('upbtn');
+let leftbtn = document.getElementById('leftbtn');
+let downbtn = document.getElementById('downbtn');
+let rightbtn = document.getElementById('rightbtn');
+
+upbtn.addEventListener('click', ()=>{
+    console.log("ArrowUp");
+            inputDir.x = 0;
+            inputDir.y = -1;
+});
+
+downbtn.addEventListener('click', ()=>{
+    console.log("ArrowDown");
+            inputDir.x = 0;
+            inputDir.y = 1;
+});
+
+leftbtn.addEventListener('click', ()=>{
+    console.log("ArrowLeft");
+            inputDir.x = -1;
+            inputDir.y = 0;
+})
+
+rightbtn.addEventListener('click', ()=>{
+    console.log("ArrowRight");
+            inputDir.x = 1;
+            inputDir.y = 0;
+})
