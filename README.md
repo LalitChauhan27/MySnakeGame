@@ -1,7 +1,7 @@
 
 # MySnakeGame
 
-MySnakeGame is a game like that we used to play in our keypad phones. It is compaitable for both Mobile as well as for PC.
+MySnakeGame is a game like that we used to play in our keypad phones. It is compatible for both Mobile as well as for PC.
 You can adjust the game speed to Slow, Moderate and Fast. You can also turn the Music On/Off. Score will have been start updating as soon as you start eating a apple(block). High score will have updated in the local storage. The project is hosted on www.mysnakegame.me
 
 **[Live Link](https://www.mysnakegame.me/)**
