@@ -7,9 +7,9 @@ You can adjust the game speed to Slow, Moderate and Fast. You can also turn the 
 **[Live Link](https://www.mysnakegame.me/)**
 # Preview
 
-![PC Preview](![P1](https://user-images.githubusercontent.com/102366326/197187845-00bc7207-7bd3-4cf4-9d4e-81f0255d582d.jpg))
+![PC Preview](https://user-images.githubusercontent.com/102366326/197187845-00bc7207-7bd3-4cf4-9d4e-81f0255d582d.jpg)
 
-![Mobile Preview](![P2](https://user-images.githubusercontent.com/102366326/197187962-ac38386b-694d-4312-ba8e-faf9ee39677b.jpg))
+![Mobile Preview](https://user-images.githubusercontent.com/102366326/197187962-ac38386b-694d-4312-ba8e-faf9ee39677b.jpg)
 
 
 ## Features
